@@ -4,7 +4,7 @@ date: 2017-11-09
 title: Clojure(Script) pohledem rubisty
 ---
 
-# Clojure(Script)       Pohledem        Rubisty
+# Clojure(Script)           Pohledem              Rubisty
 
 ---
 
