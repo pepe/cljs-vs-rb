@@ -10,8 +10,8 @@ title: Clojure(Script) pohledem rubisty
 
 ## Kdo jsem?
 
-* pepe
-* damnpepe
+* @pepe
+* @damnpepe
 * První Rubista
 
 ---
@@ -105,7 +105,7 @@ title: Clojure(Script) pohledem rubisty
 
 ---
 
-## Sponzorská zpráva
+## Sponzorské sdělení
 
 ```
 https//github.com/laststar/showrum
