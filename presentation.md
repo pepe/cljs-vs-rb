@@ -43,9 +43,9 @@ title: Clojure(Script) pohledem rubisty
 
 ## Praktičnost
 
-* Jako Ruby
-* Navíc homoikonita
-* Data, data a zase data
+* REPL
+* Jednoduchost
+* Stejně jako Ruby
 
 ---
 
